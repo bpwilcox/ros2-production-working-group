@@ -1,19 +1,17 @@
-# {{NAME}} Working Group
-
-{{
-TEMPLATE: This repository acts as a template for individual Working Groups to start from.
-All information in double curly-braces must be replaced with details for the specific Working Group.
-NOTE: check the issue and pull request templates as well, under `.github` directory.
-
-This is a template repository.
-When starting a new working group, [use this template](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) to create a new repository in the WG organization.
-}}
+# ROS 2 Production Working Group
 
 This document defines the scope and governance of the Working Group (WG).
 
-{{Mission: The {{NAME}} Working Group's mission is to...}}
+Mission: The ROS 2 Production Working Group's mission is to affirm ROS 2’s commitment as an infrastructure for scalable deployment and production of robotics products by prioritizing and coordinating efforts to address concerns of Developer Cost, Stability, Quality Control, and Performance.
 
-{{Scope: the types of topics, tools, libraries, applications, documents, etc, that this working group focuses on. }}
+Scope: 
+* ROS 2 Build Farm & Statistics
+* CICD & Testing Coverage
+* Release schedule requirements
+* Performance Evaluation & Regressions
+* RMW Relationship
+* Architecture Improvements
+* Documentation
 
 ## Subprojects
 
@@ -24,14 +22,7 @@ Its meetings and membership are largely focused on the direction, design, and wo
 
 The following subprojects are owned by the Working Group:
 
-{{
-
-* template-project
-  * Description: Brief description of project. Remove this item and add new projects using this format.
-  * Repositories
-    * link-to-repository
-
-}}
+TBD
 
 ### Standards for subprojects
 
@@ -74,17 +65,17 @@ If the repositories of the subproject are under the WG's GitHub organization, th
 
 ### Meetings
 
-* Regular WG Meeting: {{time schedule for meetings}}
-  * {{when and where will meetings be announced}}
-  * {{what artifacts will be posted after the meetings, e.g. Minutes, Recordings}}
+* Regular WG Meeting: 7AM Pacific Time, 2nd Wednesday of Month (beginning January 10, 2024)
+  * Meetings to be announced on Discourse and google group/email list
+  * Meeting Minutes to be posted on Discourse and google group/email list
 
 ### Communication Channels
 
-{{How can members communicate with each other? Discourse, Discord, IRC, email list, etc.}}
+Member may communicate with each other via discourse (#ros2-production-wg) and within google group/email list: https://groups.google.com/u/1/g/ros2-production-working-group
 
 ### Backlog Management
 
-{{Is any project management software/site used to track work for this Working Group? How can new members discover the highest impact tasks they could take on? GitHub Projects, ZenHub, etc.}}
+TBD
 
 ### Membership, Roles and Organization Management
 
