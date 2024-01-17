@@ -2,8 +2,9 @@
 name: Organization Membership Request
 about: Request membership change in working group
 title: 'REQUEST: New/Change membership for <your-GH-handle>'
-labels: membership
+labels: ''
 assignees: ''
+
 ---
 
 ### Request
